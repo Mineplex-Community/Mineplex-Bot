@@ -1,0 +1,13 @@
+{
+    "count": 3,
+    "change": 1,
+    "min": 3,
+    "max": 1000,
+    "direction": true,
+    "cooldown": 15,
+    "message": "%name%, You asked when SSM is being updated. It will now take %count% week%pl% before the SSM Update",
+    "keywords": [
+        "update ssm"
+    ],
+    "bound_message": "That's weird... I wonder why it didn't change."
+}

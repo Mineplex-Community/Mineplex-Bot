@@ -1,0 +1,527 @@
+#############################################################################
+#####                                                                  ######
+#####                          REACTION ROLES                          ######
+#####                                                                  ######
+#############################################################################
+
+reaction-roles:
+  # ----- IN THE #role-assign CHANNEL... FIRST MESSAGE
+
+  - "753288651391369376;753416697410486303;🐉" # BR Classics
+  - "753288683888705637;753416697410486303;🍗" # BR Survival
+  - "753288687059730514;753416697410486303;☄️" # BR Skywars
+  - "753288689072996503;753416697410486303;🥮" # BR Cake Wars
+  - "753288691019022529;753416697410486303;🌌" # BR Skyblock
+  - "753288693149860031;753416697410486303;🦥" # BR Speed Builders
+  - "753288694848553031;753416697410486303;🚧" # BR Master Builders
+  - "753288700540223539;753416697410486303;🧟‍♂️" # BR Mob Arena
+  - "753288700712058881;753416697410486303;🙈" # BR Block Hunt
+  - "753288700716384349;753416697410486303;🏠" # BR Creative Housing
+
+  # ----- IN THE #role-assign CHANNEL... SECOND MESSAGE
+  - "411620627565248522;760699338233741353;🖌️" # Draw My Thing
+  - "722993788393619467;760699338233741353;🏗️" # Master Builders
+  - "354341111713497110;760699338233741353;🎮" # Mixed Arcade
+  - "490667704399953920;760699338233741353;🎲" # NANO Games
+  - "705191980610617474;760699338233741353;🐇" # Speed Builders
+  - "396710750430822422;760699338233741353;🙈" # Block Hunt
+  - "331201082418135042;760699338233741353;⛏️" # The Bridges
+  - "379301169530535937;760699338233741353;🍰" # Cake Wars
+  - "331200937643212803;760699338233741353;🌩️" # SkyWars
+  - "331200988042231809;760699338233741353;🥇" # Survival Games
+
+  # ----- IN THE #role-assign CHANNEL... THIRD MESSAGE
+
+  - "331201678407630849;760700838104268820;⚔️" # Champions
+  - "331201655422844939;760700838104268820;🔫" # Minestrike
+  - "331202623707545612;760700838104268820;🐶" # Super Smash Mobs
+  - "552772096682622977;760700838104268820;📚" # Server Channel Archives
+  - "555352477944250378;760700838104268820;📡" # Cosmetic Notification Spacer
+  - "515830271572967424;760700838104268820;🛰️" # Miscellaneous Roles
+
+  # ----- IN THE #role-assign CHANNEL... FOURTH MESSAGE
+  - "797262054582779925;797261432894652447;🪨" # Bedrock
+
+  # ----- IN THE #role-assign (ARCADE) CHANNEL... FIRST MESSAGE
+
+  - "760645603813359626;760674384305192962;🐷" # Bacon Brawl
+  - "760645605600002050;760674384305192962;💥" # Bomb Lobbers
+  - "760645609241313291;760674384305192962;☠️" # Death Tag
+  - "760645610926899210;760674384305192962;❗" # Dragon Escape
+  - "760645612508807178;760674384305192962;🐉" # Dragons
+  - "760645614278410240;760674384305192962;💎" # Evolution
+  - "760645615779577867;760674384305192962;⚔️" # Gladiators
+  - "760645617524408402;760674384305192962;🔬" # Micro Battles
+  - "760677184200376331;760674384305192962;🐮" # Milk the Cow
+
+  # ----- IN THE #role-assign (ARCADE) CHANNEL... SECOND MESSAGE
+
+  - "760645619642531860;760676970114973736;🧟‍♂️" # Monster Maze
+  - "760645621060337696;760676970114973736;🔫" # Super Paintball
+  - "760645623069278208;760676970114973736;🏹" # OITQ
+  - "760645624797593621;760676970114973736;🏃‍♂️" # Runner
+  - "760645626739425302;760676970114973736;🐑" # Sheep Quest
+  - "760645629801136150;760676970114973736;🐍" # Snake
+  - "760677580419366964;760676970114973736;🕵️‍♂️" # Sneaky Assassins
+  - "760645629968908288;760676970114973736;❄️" # Super Spleef
+  - "760645633320419359;760676970114973736;👊" # Turf Wars
+  - "760731005253451777;760676970114973736;🔥" # Wither Assault
+
+  # ----- IN THE #role-assign (CHAMPIONS) CHANNEL... FIRST MESSAGE
+
+  - "760644240224682014;760703875295608872;✊" # Brute
+  - "760644243143524362;760703875295608872;⚔️" # Knight
+  - "760644247518052352;760703875295608872;🧙‍♂️" # Mage
+  - "760644251507228683;760703875295608872;🏹" # Ranger
+  - "760644255626297434;760703875295608872;🕵️‍♂️" # Assassin
+
+  # ----- IN THE #kit-assign CHANNEL... FIRST MESSAGE
+
+  #  - "515831650270314497;737526607450734632;🦴" # Skeleton
+  #  - "515831730813534208;737526607450734632;🗿" # Iron Golem
+  #  - "515831766259335169;737526607450734632;🕸️" # Spider
+  #  - "515831829631074305;737526607450734632;🦑" # Sky Squid
+  #  - "515831858353799178;737526607450734632;💥" # Creeper
+  #  - "515831885956513794;737526607450734632;🐺" # Wolf
+  #  - "515831913857024000;737526607450734632;☃️" # Snowman
+  #  - "515831991589928960;737526607450734632;🧙" # Witch
+  #  - "515832013744504857;737526607450734632;🧟‍♂️" # Zombie
+  #  - "515832040969601027;737526607450734632;☠️" # Wither Skeleton
+  #  - "515832076059017228;737526607450734632;🐮" # Cow
+
+  # ----- IN THE #kit-assign CHANNEL... SECOND MESSAGE
+
+  #  - "515832089615138822;737527580156231811;🐴" # Skeletal Horse
+  #  - "515832120002871296;737527580156231811;🐷" # Pig
+  #  - "515832151959273503;737527580156231811;🔥" # Blaze
+  #  - "515832186708951067;737527580156231811;🐔" # Chicken
+  #  - "515832306380963840;737527580156231811;🐑" # Sheep
+  #  - "515832328954839051;737527580156231811;🏘️" # Villager
+  #  - "515831788514574346;737527580156231811;🟩" # Slime
+  #  - "515831804838805526;737527580156231811;🟪" # Enderman
+  #  - "515831937454309409;737527580156231811;🟥" # Magma Cube
+  #  - "515832278782312468;737527580156231811;🟦" # Guardian
+
+
+
+#############################################################################
+#####                                                                  ######
+#####                            ROLE TAGGING                          ######
+#####                                                                  ######
+#############################################################################
+
+taggable-roles:
+
+  #################
+  # Bedrock Games #
+  #################
+
+  ClassicsBR:
+    id: 753288651391369376
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  SurvivalBR:
+    id: 753288683888705637
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  SkywarsBR:
+    id: 753288687059730514
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  CakeWarsBR:
+    id: 753288689072996503
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  SkyblockBR:
+    id: 753288691019022529
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  SpeedBuildersBR:
+    id: 753288693149860031
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  MasterBuildersBR:
+    id: 753288694848553031
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  MobArenaBR:
+    id: 753288700540223539
+    can-admin-roles-tag-this: false
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  BlockHuntBR:
+    id: 753288700712058881
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  HousingBR:
+    id: 753288700716384349
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+
+  ################
+  # Arcade Games #
+  ################
+
+  DrawMyThing:
+    id: 411620627565248522
+    allowed-roles:
+      - 566562948760338442 # Arcade Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  MasterBuilders:
+    id: 722993788393619467
+    allowed-roles:
+      - 566562948760338442 # Arcade Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  NANOGames:
+    id: 490667704399953920
+    allowed-roles:
+      - 566562948760338442 # Arcade Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  SpeedBuilders:
+    id: 705191980610617474
+    allowed-roles:
+      - 566562948760338442 # Arcade Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  MixedArcade:
+    id: 354341111713497110
+    allowed-roles:
+      - 566562948760338442 # Arcade Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+
+  ##################
+  # Classics Games #
+  ##################
+
+  BlockHunt:
+    id: 396710750430822422
+    allowed-roles:
+      - 566563806583455754 # Classics Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  TheBridges:
+    id: 331201082418135042
+    allowed-roles:
+      - 566563806583455754 # Classics Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  CakeWars:
+    id: 379301169530535937
+    allowed-roles:
+      - 566563806583455754 # Classics Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  Skywars:
+    id: 331200937643212803
+    allowed-roles:
+      - 566563806583455754 # Classics Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  SurvivalGames:
+    id: 331200988042231809
+    allowed-roles:
+      - 566563806583455754 # Classics Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+
+  ##################
+  # Hardcore Games #
+  ##################
+
+  Champions:
+    id: 331201678407630849
+    allowed-roles:
+      - 566563862636396574 # Champions Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  Minestrike:
+    id: 331201655422844939
+    allowed-roles:
+      - 566563862636396574 # Hardcore Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  SuperSmashMobs:
+    id: 331202623707545612
+    allowed-roles:
+      - 566563862636396574 # Hardcore Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+
+  ##################
+  # Champions Kits #
+  ##################
+
+  Brute:
+    id: 760644240224682014
+    allowed-roles:
+      - 566563862636396574 # Hardcore Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  Knight:
+    id: 760644243143524362
+    allowed-roles:
+      - 566563862636396574 # Hardcore Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  Mage:
+    id: 760644247518052352
+    allowed-roles:
+      - 566563862636396574 # Hardcore Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  Test:
+    id: 737469022525849621
+    allowed-roles: [ ]
+
+  Ranger:
+    id: 760644251507228683
+    allowed-roles:
+      - 566563862636396574 # Hardcore Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+  Assassin:
+    id: 760644255626297434
+    allowed-roles:
+      - 566563862636396574 # Hardcore Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+
+  BedrockGI:
+    id: 742078854495076353
+    allowed-roles:
+      - 742078854495076353 # Bedrock Role
+      - 738516082406719630 # Moderator
+      - 362695040033882113 # Discord Management
+      - 362694724777279498 # Discord Administration
+
+
+promote-demote-roles:
+  QAT: # "Quality Assurance Testing" role.
+    id: 583837974349873172
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+      - 326169403362115584 # Quality Assurance
+  GI: # GI Role
+    id: 325484960435929089 # "Game Insights" role.
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+  Arcade: # Arcade Role
+    id: 566562948760338442 # Arcade
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+  Classics: # Classics Role
+    id: 566563806583455754 # Classics
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+  Hardcore: # Hardcore Role
+    id: 566563862636396574 # Hardcore
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+  Bedrock: # Bedrock Role
+    id: 742078854495076353 # Bedrock
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+  Muted: # Muted
+    id: 391011906716041217
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+  TestRole: # Bedrock Role
+    id: 737469022525849621 # Bedrock
+    allowed-roles:
+      - 737469022525849621 # Fallen Test Role
+  MapTester: # Map Tester Role
+    id: 488455407149514753 # Hardcore
+    allowed-roles:
+      - 362694356668383252 # Mineplex Admin
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+  Builder: # Builder Role
+    id: 326167662797389824 # Hardcore
+    allowed-roles:
+      - 362694356668383252 # Mineplex Admin
+      - 737469022525849621 # Fallen Test Role
+      - 326091945619226636 # Team Leader
+      - 362694724777279498 # Discord Administration
+      - 566626995816103950 # Category Leader
+
+
+bot-statuses:
+  - "Bringing back triple jump"
+  - "asking for DMT word list"
+  - "Bringing back triple jump"
+  - "Recycling ideas from games"
+  - "GI best subteam"
+  - "Praising Chief Waffle Hylore"
+  - "Copy and paste forums posts"
+  - "Adding better knockback"
+  - "Résumé booster"
+  - "Bugs were the real update"
+  - "Contemplating life"
+  - "Revamping Skylands"
+  - "Looking for a soulmate"
+  - "Insert $5 for update"
+  - "/disguise doesn't work"
+  - "Sam fixed disguise lol"
+  - "Getting stacked in SG"
+  - "Doing next-level enchants"
+  - "X-teaming with Clans Bot"
+  - "Clans Bot’s arrays...:flushed:"
+  - "the stonk market"
+  - "ThTs is a fraction of then"
+
+auto-replies:
+  - "E7;https://cdn.discordapp.com/attachments/326405359486894080/783904302737129512/nierwhenwhen.png"
+  - "soontm;Soon™ - The RnD division of Mineplex LLC bringing the future to not right now."
+  - "anime;https://cdn.discordapp.com/attachments/547951362223112192/681309788960850110/anime.png"
+  - "everyone liked that;https://i.redd.it/3x2ceeiwfpo11.jpg"
+  - "???;https://cdn.discordapp.com/attachments/547951362223112192/680991239499284502/image0.gif"
+  - "yes.;https://imgur.com/KmrUkod"
+  - "no.;https://i.imgflip.com/34yx3j.png"
+  - "stonks;https://i.ytimg.com/vi/if-2M3K1tqk/maxresdefault.jpg"
+  - "all right then;https://i.imgflip.com/2neebf.jpg"
+  - "keep your secrets;https://i.imgflip.com/2neebf.jpg"
+  - "do it;https://media.giphy.com/media/rjLINlGpJYvvO/giphy.gif"
+  - "so uncivilized;https://media1.tenor.com/images/be546de1f55611cf6be5e61f86924865/tenor.gif?itemid=11347404"
+  - "so uncivilised;https://media1.tenor.com/images/be546de1f55611cf6be5e61f86924865/tenor.gif?itemid=11347404"
+  - "wrong;https://media0.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif"
+  - "approved;https://cdn.discordapp.com/attachments/324362079303761930/723061555427540992/BALANCE_APPROVED.png"
+  - "stupid;https://tenor.com/view/do-you-are-have-stupid-roblox-gif-14234918"
+  - "perhaps;https://en.meming.world/images/en/thumb/1/14/Perhaps.jpg/300px-Perhaps.jpg"
+  - "https://cdn.discordapp.com/attachments/484338985666347008/603676431897329670/image0.jpg"
+  - "clans;sucks"
+  - "dmt;Draw My Thing is arguably the most intellectually stimulating and challenging minigame in Mineplex existence. Requiring players to utilize critical thinking, creative thought, quick contextual evidence, and conjured out-of-the-box solutions, Draw My Thing requires its players to both guess and come up with drawings for thousands of unique words pertaining to everyday life, Minecraft, and hypothetical thought alike. Artistic talent must be effectively used to demonstrate conceptual understanding of words throughout the game, as an individual player will inevitably be called upon to go up to the drawing board twice per game. Furthermore, the game frequently requires participants to recollect previously learned information and recognize patterns in letter spacing, content displayed, and theories put forth to the nature of a drawing's content by fellow players. As such, it results in an incredibly difficult and complex, yet highly enthralling experience for new players and Mineplex veterans alike."
+  - "gi;<:gitag:459435852284821515>"
+  - "pennies;https://thumbs.gfycat.com/EnchantedDismalAustralianfreshwatercrocodile-size_restricted.gif"
+  - "vector;https://i.kym-cdn.com/entries/icons/facebook/000/023/977/cover3.jpg"
+  - "disappointed;https://i.kym-cdn.com/entries/icons/mobile/000/025/543/eca.jpg"
+  - "moppletop;https://cdn.discordapp.com/attachments/324362079303761930/729584709071405116/maOK1mp.jpg"
+  - "star wars;Did you ever hear the tragedy of Darth Plagueis The Wise? I thought not. It's not a story the Jedi would tell you. It's a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midichlorians to create life… He had such a knowledge of the dark side, he could even keep the ones he cared about from dying. The dark side of the Force is a pathway to many abilities some consider to be unnatural. He became so powerful… the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. Ironic. He could save others from death, but not himself."
+  - "immortal;https://cdn.discordapp.com/attachments/730978119892205682/732637425330815106/unknown.png"
+  - "immoral;https://cdn.discordapp.com/attachments/730978119892205682/732637425330815106/unknown.png"
+  - "pathetic;https://i.kym-cdn.com/photos/images/facebook/001/393/829/447.jpg"
+  - "dan;https://cdn.shopify.com/s/files/1/0014/0541/9635/products/Arnotts-Tim-Tam-Double-Coat_580x.png?v=1594176097"
+  - "daniel;https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/TD1894_kraft_vegemite_jar_380g.jpg"
+  - "dani;https://chillikebab.files.wordpress.com/2010/10/tictocpack.jpg"
+  - "?policy;https://goo.gl/v5sFJb"
+  - "?invite;Hello there! Would you be interested in joining the Game Insights discord? I've noticed your activity and experience, and I believe you would be a good addition to the discord.;;In case you don't know, Game Insights is the subteam that decides most in-game balancing factors in Mineplex. Members are handpicked by GI Management based on how active you are and how insightful your feedback and suggestions are - therefore, please note that being in the GI discord is NOT the same as being in the GI team.;;In case you would like to join, please read our member policy here https://goo.gl/v5sFJb and let me know if you agree to follow it after you finish reading. Please also let me know if you have any questions or need clarification on anything.;_ _"
+  - "?asked;Feel free to read our member policy here https://goo.gl/v5sFJb and be sure to abide by the rules."
+  - "?memberlist;Here is the document, contact a Category or Team Lead for any errors: https://docs.google.com/drawings/d/1hH_w7niEI7-DhfNQmC-ADGloM5t-gfYuvKkMm1NhpR8/edit?usp=sharing"
+  - "game insights committee;Leadership. Excellence. Collaboration. Networking. World class. Transparency. These aren't just words for us, they're a way of life, a way of doing things, every day. Because here at the Game Insights committee, we're committed to our mission of selecting and implementing only the finest cartographic masterpieces. The GI committee is an integrated, synergistic, professional collection of individuals engaging and innovating for the future. Who am I? I am the Game Insights committee. I am the Game Insights committee. I am the Game Insights committee. I am the Game Insights committee. Ich bin the Game Insights committee. I am the Game Insights committee. The Game Insights committee- we tell you, what you want."
+  - "gi committee;Leadership. Excellence. Collaboration. Networking. World class. Transparency. These aren't just words for us, they're a way of life, a way of doing things, every day. Because here at the Game Insights committee, we're committed to our mission of selecting and implementing only the finest cartographic masterpieces. The GI committee is an integrated, synergistic, professional collection of individuals engaging and innovating for the future. Who am I? I am the Game Insights committee. I am the Game Insights committee. I am the Game Insights committee. I am the Game Insights committee. Ich bin the Game Insights committee. I am the Game Insights committee. The Game Insights committee- we tell you, what you want."
+  - "cultured;star wars"
+  - "adam;https://cdn.discordapp.com/attachments/547951362223112192/738599198924079285/adam_head.png"
+  - "knock knock; YOU'RE ABOUT TO GET SHELL SHOCKED"
+  - "spam;<@738511069638819941> please stop spamming repeated messages, or you will be muted."
+  - "ironic;https://imgur.com/orLLFQz"
+  - "bedrock;gi"
+  - "gross;not bedrock gi"
+  - "badrock;best rock"
+  - "chunk glitches;https://cdn.discordapp.com/attachments/547951362223112192/744373870102052934/wait_its_all_chunk_glitches.png"
+  - "i want gi;https://cdn.discordapp.com/attachments/484338985666347008/603676431897329670/image0.jpg"
+  - "holy mother of gi;https://imgur.com/y3bsdv5"
+  - "gi jesus;https://imgur.com/y3bsdv5"
+  - "i dont want gi;Don't lie to yourself. Yes you do."
+  - "i don't want gi;Don't lie to yourself. Yes you do."
+  - "mods;I now must go, but I would like all mods out there to know, that i see my self as the prophet of a new enlightenment, you should fear me like the monarchs of Europe feared the ideals of freedom and the will of the people, or like Martin Luther's 95 Thesis, opposing the corruption and injustice of the catholic church. These injustices will not be easily overlooked, the toe sucking proletariat will rise against the evil of the moderators and our ideology will be realized. I wish only good wishes to my brothers and sisters in the good fight against these devastating oppressors. Viva La Revolution!!!"
+  - "red;sus"
+  - "hotel;https://i.imgur.com/dmaWhid.png"
+  - "hotel?;https://i.imgur.com/dmaWhid.png"
+  - "emergency meeting;https://i.imgur.com/teniJXf.gif"
+  - "changed his mind;https://i.imgur.com/PpGgS7e.png"
+  - "i got gi;https://i.imgur.com/PpGgS7e.png"
+  - "arcadehub;https://docs.google.com/document/d/1yMVwiF3MVTimXWYZDWHUGMm6XyHERRbNOsGuxRxcHL8/edit?usp=sharing"
+  - "ssm doc;https://docs.google.com/document/d/1jYCibqc4OSDk2fJnb_l4PV9Y6sfCRdLL7lYIWk_jwgQ/edit?usp=sharing"
+  - "hello;hello"
+  #- "filterenabled;Mineplex Bot is down, backup filter enabled. Contact <@699802828356583435> to disable when Mineplex Bot comes back online!;;https://i.imgur.com/A3g4P5Y.png"
+  #- "filterdisabled;Mineplex bot is back up! The backup filter has been disabled.;;https://youtu.be/KLDgsUJ_eDg"
+  #- "conga;Come:man_dancing:on:dancer:shake:man_dancing:your:dancer: body:man_dancing: baby:dancer:do:man_dancing:that:dancer:conga:man_dancing:know:dancer:you:man_dancing:cant:dancer:control:man_dancing:yourself:dancer:any:man_dancing:longer:dancer::man_dancing::dancer::man_dancing::dancer:"
+  - "ripconga;gone but not forgotten"
+  - "he's right you know;https://cdn.discordapp.com/attachments/526938309079990302/794019346732810250/image0.jpg"
+  - "hes right you know;https://cdn.discordapp.com/attachments/526938309079990302/794019346732810250/image0.jpg"
+  - "hes right;https://cdn.discordapp.com/attachments/526938309079990302/794019346732810250/image0.jpg"
+  - "he's right;https://cdn.discordapp.com/attachments/526938309079990302/794019346732810250/image0.jpg"
+  - "optimus lime;https://cdn.discordapp.com/attachments/324362079303761930/795356693085159474/image0.jpg"
+  - "purgatory;clans"
+  - "frick bedrock;no u lol"
+  - "legit;https://i.imgur.com/0RK6tje.png"
+  - "baldcorder;https://crafatar.com/avatars/6f086a3d39d64b6abb1b02b119efad03"
+  - "josh;https://crafatar.com/avatars/82de816c-8c6f-4ef3-9d96-c152222befec"
+  - "senor beans;https://crafatar.com/avatars/95ea6843-17cf-4df1-844e-8a85561f0519"
+  - "liar;https://tenor.com/KoqH.gif"
+  - "pin;Wtf thats such a bad pin, this almost an even worse tier pin than in mpd, but thats impossible because they seek the absolute lowground there"
+  - "delete assassin;Sacrilege! The power of GI Jesus condemns you. You will be kicked from the discord in **15 seconds**."

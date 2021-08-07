@@ -1,0 +1,6 @@
+asyncio~=3.4.3
+requests~=2.25.1
+Pillow~=8.2.0
+discord.py
+discord-py-slash-command
+pyyaml
