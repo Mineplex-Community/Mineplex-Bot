@@ -30,7 +30,7 @@ class DiscussionBlacklist(commands.Cog):
             await member.remove_roles(role)
             await context.send(
                 embed=discord.Embed(
-                    description=f"<:{config.CHECK_EMOJI}> {member.mention} has been `unblacklisted` successfully.",
+                    description=f"<:{config.CHECK_EMOJI}> {member.mention} has been `unblacklisted` from discussions successfully.",
                     color=config.EMBED_COLOUR_SUCCESS
                 ).set_author(name=str(context.author), icon_url=context.author.avatar_url)
             )
@@ -40,7 +40,7 @@ class DiscussionBlacklist(commands.Cog):
             await member.add_roles(role)
             await context.send(
                 embed=discord.Embed(
-                    description=f"<:{config.CHECK_EMOJI}> {member.mention} has been `blacklisted` successfully.",
+                    description=f"<:{config.CHECK_EMOJI}> {member.mention} has been `blacklisted` from discussions successfully.",
                     color=config.EMBED_COLOUR_SUCCESS
                 ).set_author(name=str(context.author), icon_url=context.author.avatar_url)
             )
