@@ -111,14 +111,14 @@ declarations: dict = {
                 ]
             }
         },
-        "blacklist": {
-            "name": "blacklist",
+        "dblacklist": {
+            "name": "dblacklist",
             "description": "Apply a blacklisted role to a given member",
             "guild_ids": [config.HOME_GUILD_ID],
             "options": [
                 create_option(
                     name="member",
-                    description="The sniveling member to blacklist",
+                    description="The sniveling member to discussion blacklist",
                     option_type=SlashCommandOptionType.USER,
                     required=True
                 )

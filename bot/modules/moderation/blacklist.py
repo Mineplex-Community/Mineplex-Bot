@@ -12,8 +12,8 @@ class DiscussionBlacklist(commands.Cog):
     def __init__(self, bot: MineplexBot):
         self.bot: MineplexBot = bot
 
-    @cog_ext.cog_slash(**declarations["moderation"]["blacklist"])
-    async def blacklist(self, context: SlashContext, member: User):
+    @cog_ext.cog_slash(**declarations["moderation"]["dblacklist"])
+    async def dblacklist(self, context: SlashContext, member: User):
         """
         Blacklist a user (add the blacklist role to them)
 
